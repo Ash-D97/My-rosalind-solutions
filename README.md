@@ -8,3 +8,7 @@ The aim of this project is to:
 - Track my progress as I work through different problem sets  
 
 I’ll be updating this repository regularly as I work through new problems.
+
+## Links
+- Website: [rosalind.info](http://rosalind.info)  
+- My Account: [my-account](https://rosalind.info/users/Asanthi_Dhanusha/)  
